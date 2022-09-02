@@ -23,10 +23,10 @@ I am an embedded systems engineer who decided to become a java developer.
 
 ## Rapidfire  
 
-- 💼 I’m currently working on [Telegram bot](https://github.com/dddd/github-profilinator)  
+- 💼 I’m currently working on [Telegram bot](https://github.com/LoranShare/arm_telegram_bot)  
   
 
-- 📘 I’m currently learning Spring? Docker, improve my knowledge of java and gain experience  
+- 📘 I’m currently learning Spring, Docker, improve my knowledge of java and gain experience  
 
 <br/>  
 
